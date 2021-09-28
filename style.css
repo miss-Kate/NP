@@ -43,6 +43,7 @@ container{
     background: #001D45;
     border-radius: 20px;
     color: #fff;
+    border: none;
 }
 /* MAIN */
 
@@ -87,17 +88,18 @@ container{
 
 }
 .btn_text{
+    margin-top: 150px;
     background-color: #fff;
     display: flex;
 }
 .btn_buy{ 
-    margin-top: 150px;
     margin-right: 40px;
     width: 175px;
     height: 40px;
     background: #001D45;
     border-radius: 20px;
     color: #fff;
+    border: none;
 
 }
 .btn_download{
@@ -109,7 +111,7 @@ container{
 }
 .btn_download > img {
     position: absolute;
-    top: 5px;
+    top: 13px;
     right: -10px;
     background-color: #fff;
 }
@@ -122,6 +124,7 @@ container{
     background-color: transparent;
     border:none;
     background-color: #fff;
+    margin-right: 40px;
 }
 
 .article{
@@ -144,8 +147,8 @@ container{
     border-radius: 8px;
 }
 .img_block{
-    height: 50%;
-    width: 10%;
+    height: 45px;
+    width: 45px;
     margin: 15px;
     background-color: #fff;
 }
@@ -174,7 +177,7 @@ container{
     background-color: #fff;
 }
 .block_btn{
-    width: 2%;
+    width: 4%;
     height: 25%;
     background-color: #fff;
     margin-right: 2%;
@@ -239,7 +242,7 @@ container{
 .block_rool > img {
     
     background-color: #fff;
-    width: 25%;
+    width: 52px;
     margin:10px;
 }
 .cont_rool{
@@ -262,13 +265,13 @@ container{
 .cont_rool> img{
     position: absolute;
     background-color: #fff;
-    width: 8%;
+    width: 26px;
     right: 5px;
     bottom: 5px;
 
 }
 
-  .video{
+.video{
     border-radius: 8px;
     width: 27%;
     display: flex;
@@ -276,7 +279,7 @@ container{
     background-color: #fff;
     margin: 40px;
     
-  }
+}
 .cont_video{
     background-color: #fff;
     padding: 5%;
@@ -319,6 +322,7 @@ container{
     border-radius: 20px;
     color: #fff;
     margin: 5% 42%;
+    border: none;
 
 }
 footer{

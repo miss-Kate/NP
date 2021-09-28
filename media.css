@@ -72,7 +72,7 @@
         padding: 28px;
     } 
     .block_rool {
-    width: 31%;
+    width: 91%;
     }
     .cont_rool {
     padding:0;
@@ -85,6 +85,7 @@
     }
     .rool_square {
         display: flex;
+        flex-direction: column;
         justify-content: center;
     }
     .video_article {
@@ -155,8 +156,6 @@
         margin: 0;
     }
     .img_block {
-        height: 50%;
-        width: 13%;
         margin: 10px;
     }
     .bn_square > h4 {
@@ -322,8 +321,8 @@
         margin: 0;
     }
     .img_block {
-         height: 50%;
-        width: 20%;
+         /* height: 50%;
+        width: 20%; */
         margin: 15px;
     }
     .block_btn {
@@ -348,7 +347,7 @@
     }
     .block_rool {
         width: 80%;
-        margin: 0;
+        margin-top: 10px;
     }
     .video_article {
         display: flex;
